@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bn.IniConfigHelper", "bn.IniConfigHelper.csproj", "{D4423673-2B2B-4631-881C-BA11DC14CAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4423673-2B2B-4631-881C-BA11DC14CAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4423673-2B2B-4631-881C-BA11DC14CAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4423673-2B2B-4631-881C-BA11DC14CAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4423673-2B2B-4631-881C-BA11DC14CAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7513861-F4C7-46B0-8D45-F4FDC70EDFF1}
+	EndGlobalSection
+EndGlobal
